@@ -14,4 +14,4 @@ Early ciphers were designed to allow encryption and decryption by hand , while t
 - [[RO13]]
 - [[Caesar]]
 - [[Affine]]
-- 
+- [[Rail-Fence]]
